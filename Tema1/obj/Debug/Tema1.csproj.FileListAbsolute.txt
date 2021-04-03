@@ -1,0 +1,11 @@
+C:\FACULTATE\II\Lab 2\Tema1\Tema1\bin\Debug\Tema1.exe.config
+C:\FACULTATE\II\Lab 2\Tema1\Tema1\bin\Debug\Tema1.exe
+C:\FACULTATE\II\Lab 2\Tema1\Tema1\bin\Debug\Tema1.pdb
+C:\FACULTATE\II\Lab 2\Tema1\Tema1\obj\Debug\Tema1.csprojAssemblyReference.cache
+C:\FACULTATE\II\Lab 2\Tema1\Tema1\obj\Debug\Tema1.Form1.resources
+C:\FACULTATE\II\Lab 2\Tema1\Tema1\obj\Debug\Tema1.Properties.Resources.resources
+C:\FACULTATE\II\Lab 2\Tema1\Tema1\obj\Debug\Tema1.csproj.GenerateResource.cache
+C:\FACULTATE\II\Lab 2\Tema1\Tema1\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
+C:\FACULTATE\II\Lab 2\Tema1\Tema1\obj\Debug\Tema1.exe
+C:\FACULTATE\II\Lab 2\Tema1\Tema1\obj\Debug\Tema1.pdb
+C:\FACULTATE\II\Lab 2\Tema1\Tema1\obj\Debug\Tema1.Form2.resources
